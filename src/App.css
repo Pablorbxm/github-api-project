@@ -1,0 +1,37 @@
+.h-and-f {
+  background-color: #1f1f1f;
+  padding: 30px;
+}
+
+.w-text {
+  color: #ffffff;
+}
+
+.center {
+  text-align: center;
+}
+
+.flex-centralizado {
+  display: flex;
+  justify-content: center;
+}
+
+.div {
+  background-color: #0e0e0e;
+  padding: 30px;
+  margin-left: 16px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-right: 16px;
+}
+
+.margin-text {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.center-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
