@@ -3,15 +3,12 @@
   padding: 30px;
 }
 
-.w-text {
+.center-w-txt {
   color: #ffffff;
-}
-
-.center {
   text-align: center;
 }
 
-.flex-centralizado {
+.center-objs {
   display: flex;
   justify-content: center;
 }
@@ -23,11 +20,6 @@
   margin-top: 16px;
   margin-bottom: 16px;
   margin-right: 16px;
-}
-
-.margin-text {
-  margin-left: 80px;
-  margin-right: 80px;
 }
 
 .center-photo {
